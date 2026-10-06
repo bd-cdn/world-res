@@ -1,0 +1,12 @@
+{
+  "name": "world-res",
+  "version": "1.0.3",
+  "description": "world-h5-red",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
